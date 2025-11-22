@@ -4,4 +4,4 @@ Mainly requires
 python-dotenv==1.2.1
 python-telegram-bot==22.5
 
-Tested hosting on fps.ms
+Tested hosting on fps.ms, Choreo, Koyeb
